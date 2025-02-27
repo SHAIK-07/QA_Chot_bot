@@ -1,0 +1,17 @@
+# Core dependencies
+python-dotenv
+streamlit
+
+# LangChain & related dependencies
+langchain
+langchain-community
+langchain-google-genai
+
+# Vector Database
+chromadb
+
+# Embeddings & LLMs
+google-generativeai
+
+# CSV Handling
+pandas
